@@ -2,4 +2,8 @@ je crois que je fais bien
 je ne suis pas sure 
 on verra bien
 
+<<<<<<< HEAD
 Modif Mathieu
+=======
+mais stp raph modifie pas vingt fois
+>>>>>>> c3a6f5793744e223fcba0c82ff474998d53a6ef5
